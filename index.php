@@ -4,7 +4,7 @@
 
 <?php
 
-$release = 1;
+$release = 2;
 
 if ($release == "[undefined]") {
   $color = sprintf('#%06X', mt_rand(0, 0xFFFFFF));
